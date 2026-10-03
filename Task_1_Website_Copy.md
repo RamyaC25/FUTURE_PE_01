@@ -490,3 +490,43 @@ services, tone, content requirements and quality constraints.
 This workflow shows how AI can support website content
 creation while keeping the generated content relevant,
 simple, persuasive and suitable for the intended business.
+
+
+## REUSABLE PROMPT FRAMEWORK
+
+The prompt structure used in this project can be adapted for other local businesses by changing the business information, target audience, services and content requirements.
+
+### Reusable Structure
+
+Business Name: [Business Name]
+
+Business Type: [Business Type]
+
+Location: [City, State]
+
+Target Audience: [Describe the target customers]
+
+Services / Products:
+1. [Service or Product 1]
+2. [Service or Product 2]
+3. [Service or Product 3]
+4. [Service or Product 4]
+5. [Service or Product 5]
+
+Tone:
+Simple, friendly, professional and persuasive.
+
+Content Required:
+- Homepage copy
+- Services / Products page
+- Customer benefits
+- Call-to-action sections
+
+Quality Constraints:
+- Keep the content realistic and useful.
+- Avoid fake claims and unrealistic promises.
+- Avoid unsupported statistics.
+- Mention the local location naturally.
+- Make the content suitable for a real business website.
+
+This framework can be reused for different local businesses by replacing the business-specific information while keeping the overall prompt structure consistent.
