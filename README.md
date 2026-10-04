@@ -13,6 +13,10 @@ Shivamogga, Karnataka
 
 The objective of this task is to use structured AI prompts to generate professional, simple and persuasive website copy for a local beauty salon.
 
+### Tool Used
+
+ChatGPT was used to design, refine and test the structured prompts and generate the website copy outputs for this project.
+
 ### Deliverables
 
 - Homepage website copy
